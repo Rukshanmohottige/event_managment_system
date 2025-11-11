@@ -1,4 +1,5 @@
-ITUM Event Management System
+ITUM Event Management System.
+
 A comprehensive web-based event management system for the Institute of Technology University of Moratuwa that allows students to discover, register for, and manage academic and extracurricular events.
 
 🚀 Features
