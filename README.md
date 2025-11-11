@@ -16,7 +16,7 @@ Responsive Design: Mobile-friendly interface
 Role-based Access: Support for students, staff, and admin roles
 
 🛠 Technology Stack
-Frontend: HTML5, CSS3, JavaScript (ES6+)
+Frontend: HTML5, CSS3, JavaScript 
 
 Backend: PHP
 
@@ -258,50 +258,3 @@ register_event.php - Event registration
 
 logout.php - User logout
 
-🚀 Future Enhancements
-Planned Features
-Password hashing for security
-
-Email verification system
-
-Password recovery functionality
-
-Admin panel for event management
-
-Event categories and filtering
-
-Calendar integration
-
-Email notifications
-
-QR code attendance system
-
-Analytics dashboard
-
-Security Improvements
-Implement bcrypt password hashing
-
-Add CSRF protection
-
-Implement rate limiting
-
-Add input sanitization
-
-Secure session management
-
-📞 Support
-For technical support or issues with the ITUM Event Management System, please contact:
-
-System Administrator: admin@itum.com
-
-Event Coordinator: events@itum.com
-
-📄 License
-This project is developed for academic purposes at the Institute of Technology University of Moratuwa. All rights reserved.
-
-👨‍💻 Development Team
-Developed by ITUM Web Development Students
-
-Academic Year: 2025
-
-Course: Web Development Project
